@@ -1,7 +1,7 @@
 # Prerequisites
 #
 - JDK 11 NAYAN
-- Maven 3 
+- Maven 3 BONY
 - MySQL 8
 
 # Technologies 
